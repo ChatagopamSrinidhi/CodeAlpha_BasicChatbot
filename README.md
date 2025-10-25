@@ -29,7 +29,7 @@ random module (for varied responses)
 
 Clone the repository:
 
-git clone https://github.com/yourusername/basic-chatbot.git
+git clone https://github.com/ChatagopamSrinidhi/CodeAlpha_BasicChatbot
 
 
 Navigate to the project folder:
